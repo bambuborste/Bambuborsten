@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bambuborsten.se</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Bambuborsten.se</h1>
+    <p>Rena tänder. Rent samvete.</p>
+    <a href="#subscribe" class="cta">Börja prenumerera</a>
+  </header>
+
+  <section class="about">
+    <h2>Varför bambu?</h2>
+    <p>Våra tandborstar är tillverkade av naturlig bambu, helt utan plast. Bättre för miljön och lika bra för dina tänder.</p>
+    <p>Visste du att man bör byta tandborste var 4:e vecka? Vi gör det enkelt med vår prenumerationstjänst.</p>
+  </section>
+
+  <section class="subscribe" id="subscribe">
+    <h2>Välj din prenumeration</h2>
+    <ul>
+      <li>1 tandborste / månad – 29 kr</li>
+      <li>2 tandborstar / månad – 55 kr</li>
+      <li>4 tandborstar / månad – 99 kr</li>
+    </ul>
+    <p>Frakt ingår. Ingen bindningstid. Pausa när du vill.</p>
+    <a href="#" class="cta">Prenumerera nu</a>
+  </section>
+
+  <section class="contact">
+    <h2>Kontakta oss</h2>
+    <form>
+      <input type="text" placeholder="Namn" required>
+      <input type="email" placeholder="E-post" required>
+      <textarea placeholder="Ditt meddelande" required></textarea>
+      <button type="submit">Skicka</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Bambuborsten.se – Miljövänlig munvård</p>
+  </footer>
+</body>
+</html>
